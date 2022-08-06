@@ -19,7 +19,7 @@
 * **[ANDRAX-OS](https://gitlab.com/crk-mythical/andrax-hackers-platform-v5-2/-/tree/master/ANDRAX-OS)** ``Sources Code``
 * **[ANDRAX](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/andraxv5b5.apk)** `Apps`
 * ``ANDRAX For`` **[Raspberry Pi](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/raspi-andrax.sh)**
-* **[Core andrax.r5-build5.tar.xz](https://gitlab.com/crk-mythical/andrax-hackers-platform-v5-2/-/blob/master/compressed-core/andrax.r5-build5.tar.xz)** ``Core File``
+* **[andrax.r5-build5.tar.xz](https://gitlab.com/crk-mythical/andrax-hackers-platform-v5-2/-/blob/master/compressed-core/andrax.r5-build5.tar.xz)** ``Core File``
 * **[ANDRAX Course Information](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/ANDRAX-Hackers-Platform.md)**
 * ``Please Check For`` **[LICENSE](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/LICENSE)**
 
@@ -123,9 +123,7 @@ rm andrax.r5-build5.tar.xz
 * ``Responder improved to ANDRAX Edition``
 * ``Updated Tools``
 
-<br>
-
-### ``🌐 My Social Link's:``
+## ``🌐 My Social Link's:``
 <left><h6><h4><i>
 <li><a href="https://hackerone.com/xcod3bughunt3r">HackerOne</a></li>
 <li><a href="https://tryhackme.com/p/Xcod3bughunt3r">TryHackMe</a></li>
@@ -138,6 +136,6 @@ rm andrax.r5-build5.tar.xz
 <li><a href="https://tiktok.com/xcod3bughunt3r">TikTok</a></li>
 <li><a href="https://www.youtube.com/channel/UCDRFcjutewkhAioAuqTB5wg">YouTube</a></li>
 <li><a href="https://t.me/itpeopleindonesia">TeleGroups</a></li>
-<li><a href="master@itsecurity.id">Emails</a></li>
+<li><a href="mailto:master@itsecurity.id">Emails</a></li>
 <li><a href="https://itsecurity.id">Master Of ITSecurity</a></li>
 </i></h6></left>
