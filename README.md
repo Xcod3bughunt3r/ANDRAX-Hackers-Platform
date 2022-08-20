@@ -19,7 +19,7 @@
 * **[ANDRAX-OS](https://gitlab.com/crk-mythical/andrax-hackers-platform-v5-2/-/tree/master/ANDRAX-OS)** ``Sources Code``
 * **[ANDRAX](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/andraxv5b5.apk)** `Apps`
 * ``ANDRAX For`` **[Raspberry Pi](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/raspi-andrax.sh)**
-* **[andrax.r5-build5.tar.xz](https://drive.google.com/file/d/1m5E2PwoCyJu4AclvhCN4TRlTb0XiRMjz/view?usp=drivesdk)** ``Core File``
+* **[andrax.r5b5](https://drive.google.com/file/d/1m5E2PwoCyJu4AclvhCN4TRlTb0XiRMjz/view?usp=drivesdk)** ``Core File``
 * **[ANDRAX Course Information](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/ANDRAX-Hackers-Platform.md)**
 * ``Please Check For`` **[LICENSE](https://github.com/Xcod3bughunt3r/ANDRAX-Hackers-Platform/blob/main/LICENSE)**
 
